@@ -116,7 +116,7 @@
   </tr>
 </table>
 
-## Comparing different software development models like AGILE and DevOps
+### Comparing different software development models like AGILE and DevOps
 <table>
   <tr>
     <th></th>
