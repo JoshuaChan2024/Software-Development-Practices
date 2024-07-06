@@ -2,8 +2,8 @@
 ### This is a collection of my Software Development Practices coursework where I learn about different software development life cycles, identify user needs, perform storyboarding, develop wireframes and UI/UX prototypes and draw UML diagrams for specific scenarios.
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Adobe Photoshop-20232A?style=for-the-badge&logo=AdobePhotoshop&logoColor=31A8FF" alt="reactlogo" />
-    <img src="https://img.shields.io/badge/draw.io-20232A?style=for-the-badge&logo=diagrams.net&logoColor=F08705" alt="reactlogo" />
+    <img src="https://img.shields.io/badge/Adobe Photoshop-20232A?style=for-the-badge&logo=AdobePhotoshop&logoColor=31A8FF" alt="adobe photoshop" />
+    <img src="https://img.shields.io/badge/draw.io-20232A?style=for-the-badge&logo=diagrams.net&logoColor=F08705" alt="draw.io" />
 </p>
 
 ## Technologies Used
@@ -149,25 +149,25 @@ DevOps professionals or expert’s developers can’t be available all the time.
 
 ### Create storyboards to design the UX/UI of the application and visualize the navigation wireframe and app layout
 <p align="center">
-<img src="./assets/storyboarding.png" alt="typo" width="80%"/>
+<img src="./assets/storyboarding.png" alt="storyboard" width="80%"/>
 </p>
 <p align="center">
-<img src="./assets/wireframe.png" alt="typo" width="80%"/>
+<img src="./assets/wireframe.png" alt="wireframe" width="80%"/>
 </p>
 
 ### Drawing UML diagrams to visualize use case scenarios
 <p align="center">
-<img src="./assets/uml.png" alt="typo" width="80%"/>
+<img src="./assets/uml.png" alt="uml1" width="80%"/>
 </p>
 <p align="center">
-<img src="./assets/uml2.png" alt="typo" width="80%"/>
+<img src="./assets/uml2.png" alt="uml2" width="80%"/>
 </p>
 
 <p align="center">
   <br />
   <h1 align="center">Hi There! I'm Joshua! &#128075;</h1>
     <p align="center">
-      <a href="mailto:joshchan09090@gmail.com"><img src="https://img.shields.io/badge/gmail-FAF9F6?style=for-the-badge&logo=gmail" alt="reactlogo" /></a>
+      <a href="mailto:joshchan09090@gmail.com"><img src="https://img.shields.io/badge/gmail-FAF9F6?style=for-the-badge&logo=gmail" alt="gmail" /></a>
   </p>
   <p align="center">Thank you for taking the time to look through my project! I hope you enjoyed it as much as I did during the development of this project!</p>
   <p align="center">Feel free to contact me to discuss any issues, questions or comments.</p>
